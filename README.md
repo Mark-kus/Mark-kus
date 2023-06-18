@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-kus&label=Profile%20views&color=0e75b6&style=flat" alt="mark-kus" /> </p>
 
-- 🔭 See all my projects on https://mark-kus.vercel.app/**
+- 🔭 See all my projects on https://mark-kus.vercel.app/
 
 - 📫 How to reach me, **tignanellimarco@gmail.com**
 
