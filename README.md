@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, the name's Marco</h1>
-<h3 align="center">A passionate full stack web developer from Argentina</h3>
+<h3 align="center">A full stack web developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-kus&label=Profile%20views&color=0e75b6&style=flat" alt="mark-kus" /> </p>
 
 - 🔭 I’m currently working on **my portfolio, so you'll need to wait a little longer to see all my projects.**
-
-- 🌱 I’m learning **some of react native and vite,** I think it may be usefull for some projects🤫.
 
 - 📫 How to reach me, **tignanellimarco@gmail.com**
 
