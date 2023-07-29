@@ -6,7 +6,7 @@
 - 🔭 See all my projects on https://mark-kus.vercel.app/
 
 <ul>
-- 📫 How to reach me:
+📫 How to reach me:
   <li>Email me at: **tignanellimarco@gmail.com**</li>
   <li>Conect with me at: <a href="https://linkedin.com/in/marco tignanelli">LinkedIn</a></li>
 </ul> 
