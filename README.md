@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, the name's Marco</h1>
 <h3 align="center">A full stack web developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mark-kus&label=Profile%20views&color=0e75b6&style=flat" alt="mark-kus" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mark-kus&label=Profile%20views&color=0e75b6&style=flat" alt="mark-kus" /> </p>
 
 - 🔭 See all my projects on https://mark-kus.vercel.app/
 
