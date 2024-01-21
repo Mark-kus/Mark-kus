@@ -1,6 +1,9 @@
-# Marco Tignanelli - Web Developer 👨‍💻
+<div style="position: relative; width: 100%; text-align: center; overflow: hidden; height: 200px; display: flex; justify-content: center; align-items: center;">
+  <img src="https://img.freepik.com/foto-gratis/bandera-argentina_1401-57.jpg" alt="Bandera Argentina" style="width: 100%; height: auto; position: absolute; top: -57%; left: 0; opacity: 0.4">
+  <h2 style="z-index: 1; position: relative; color: white;">Marco Tignanelli - Web Developer</h2>
+</div>
 
-![Profile Banner](insert_image_url_here)
+<!--![Profile Banner](insert_image_url_here)-->
 
 ## Summary
 
@@ -8,35 +11,33 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 
 ## Languages
 
-- 🇪🇸 Spanish - Native
-- 🇬🇧 English - Advanced
+- Spanish - Native
+- English - Advanced
 
 ## Tech Skills
 
 <!-- HTML -->
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style={{ width: 48px; height: 48px; }}>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48">
 <!-- CSS -->
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style={{ width: 48px; height: 48px; }}>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="48" height="48">
 <!-- JavaScript -->
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style={{ width: 48px; height: 48px; }}>
-<!-- React -->
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style={{ width: 48px; height: 48px; }}>
-<!-- Node.js -->
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style={{ width: 48px; height: 48px; }}>
-<!-- Express -->
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width={24} height={24}>
-<!-- Python -->
-<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" class="tech-icon">
-<!-- FastAPI -->
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" class="tech-icon">
-<!-- Docker -->
-<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" class="tech-icon">
-<!-- SQL -->
-<img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48">
 <!-- TypeScript -->
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" height="48">
+<!-- React -->
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48">
+<!-- Node.js -->
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48">
+<!-- Python -->
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48" height="48">
+<!-- FastAPI -->
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="48" height="48">
+<!-- Docker -->
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="48" height="48">
+<!-- SQL -->
+<img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" width="48" height="48">
 <!-- Scrum -->
-<img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" class="tech-icon">
+<img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" width="48" height="48">
 
 ## Soft Skills
 
@@ -72,12 +73,18 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 
 ## Education
 
-- **Full Stack Web Developer**
-  - SoyHenry Bootcamp | Feb 2023 - Apr 2023
+- **Full Stack Web Developer** <br>
+   SoyHenry Bootcamp | Feb 2023 - Apr 2023
 
-- **Electro Mechanical Technician**
-  - Technical Secondary Education School N°1 | Feb 2017 - Dec 2022
+- **Electro Mechanical Technician** <br>
+   Technical Secondary Education School N°1 | Feb 2017 - Dec 2022
 
-![GitHub Stats](insert_github_stats_image_url_here)
+##
+
+<div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
+<img src="https://github-readme-stats.vercel.app/api?username=mark-kus&show_icons=true&theme=radical&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mark-kus github account stats">
+</div>
+
+##
 
 Feel free to explore my GitHub repositories and get in touch for exciting collaborations and opportunities! 🚀
