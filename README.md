@@ -2,6 +2,10 @@
 
 ![Profile Banner](insert_image_url_here)
 
+## Summary
+
+I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Constantly evolving, I possess the ability to self-instruct and guide others in the vast realm of programming. My goal is to contribute to efficient teamwork and successful project delivery. Always eager to enhance both my technical and personal skills.
+
 ## Languages
 
 - 🇪🇸 Spanish - Native
@@ -9,7 +13,14 @@
 
 ## Tech Skills
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express](https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![FastAPI](https://cdn.worldvectorlogo.com/logos/fastapi.svg) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![SQL](https://img.icons8.com/ios/50/000000/sql.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![Scrum](https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png)
+<style>
+  .tech-icon {
+    width: 48px;
+    height: 48px;
+  }
+</style>
+
+![HTML](https://img.icons8.com/color/48/000000/html-5.png){:class="tech-icon"} ![CSS](https://img.icons8.com/color/48/000000/css3.png){:class="tech-icon"} ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png){:class="tech-icon"} ![React](https://img.icons8.com/color/48/000000/react-native.png){:class="tech-icon"} ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png){:class="tech-icon"} ![Express](https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png){:class="tech-icon"} ![Python](https://img.icons8.com/color/48/000000/python.png){:class="tech-icon"} ![FastAPI](https://cdn.worldvectorlogo.com/logos/fastapi.svg){:class="tech-icon"} ![Docker](https://img.icons8.com/color/48/000000/docker.png){:class="tech-icon"} ![SQL](https://img.icons8.com/ios/50/000000/sql.png){:class="tech-icon"} ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png){:class="tech-icon"} ![Scrum](https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png){:class="tech-icon"}
 
 ## Soft Skills
 
@@ -19,10 +30,6 @@
 - 🎯 Assertive
 - 👥 Teamwork
 - 💪 Committed
-
-## Summary
-
-I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Constantly evolving, I possess the ability to self-instruct and guide others in the vast realm of programming. My goal is to contribute to efficient teamwork and successful project delivery. Always eager to enhance both my technical and personal skills.
 
 ## Experience
 
