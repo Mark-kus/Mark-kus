@@ -24,7 +24,7 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 <!-- Node.js -->
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style={{ width: 48px; height: 48px; }}>
 <!-- Express -->
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" style={{ width: 48px; height: 48px; }}>
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width={24} height={24}>
 <!-- Python -->
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" class="tech-icon">
 <!-- FastAPI -->
