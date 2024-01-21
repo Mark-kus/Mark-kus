@@ -2,16 +2,6 @@
 
 ![Profile Banner](insert_image_url_here)
 
-## About Me
-
-- **Date of Birth:** July 14, 2003
-- **ID:** 45.040.801
-- **Phone:** +54 2325-656217
-- **Email:** tignanellimarco@gmail.com
-- **Portfolio:** [mark-kus.vercel.app](https://mark-kus.vercel.app)
-- **GitHub:** [github.com/Mark-kus](https://github.com/Mark-kus)
-- **Location:** San Antonio de Areco, Buenos Aires, Argentina
-
 ## Languages
 
 - 🇪🇸 Spanish - Native
