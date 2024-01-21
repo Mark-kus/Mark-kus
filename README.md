@@ -19,7 +19,7 @@
 
 ## Tech Skills
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express](https://img.icons8.com/ios/50/000000/express.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![FastAPI](https://www.fastapi.com/img/favicon.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![SQL](https://img.icons8.com/ios/50/000000/sql.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![React](https://img.icons8.com/color/48/000000/react-native.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![Express](https://img.icons8.com/ios/50/000000/express.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![FastAPI](https://www.fastapi.com/img/favicon.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![SQL](https://img.icons8.com/ios/50/000000/sql.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![Scrum](https://img.icons8.com/color/48/000000/agile.png)
 
 ## Soft Skills
 
