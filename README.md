@@ -13,6 +13,7 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 
 ## Tech Skills
 
+<div style="display: flex">
 <!-- HTML -->
 <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" width="48" height="48">
 <!-- CSS -->
@@ -35,6 +36,7 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 <img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" width="48" height="48">
 <!-- Scrum -->
 <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" width="48" height="48">
+</div>
 
 ## Soft Skills
 
