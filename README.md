@@ -20,7 +20,30 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
   }
 </style>
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png){:class="tech-icon"} ![CSS](https://img.icons8.com/color/48/000000/css3.png){:class="tech-icon"} ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png){:class="tech-icon"} ![React](https://img.icons8.com/color/48/000000/react-native.png){:class="tech-icon"} ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png){:class="tech-icon"} ![Express](https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png){:class="tech-icon"} ![Python](https://img.icons8.com/color/48/000000/python.png){:class="tech-icon"} ![FastAPI](https://cdn.worldvectorlogo.com/logos/fastapi.svg){:class="tech-icon"} ![Docker](https://img.icons8.com/color/48/000000/docker.png){:class="tech-icon"} ![SQL](https://img.icons8.com/ios/50/000000/sql.png){:class="tech-icon"} ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png){:class="tech-icon"} ![Scrum](https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png){:class="tech-icon"}
+<!-- HTML -->
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" class="tech-icon">
+<!-- CSS -->
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" class="tech-icon">
+<!-- JavaScript -->
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" class="tech-icon">
+<!-- React -->
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" class="tech-icon">
+<!-- Node.js -->
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" class="tech-icon">
+<!-- Express -->
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" class="tech-icon">
+<!-- Python -->
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" class="tech-icon">
+<!-- FastAPI -->
+<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" class="tech-icon">
+<!-- Docker -->
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" class="tech-icon">
+<!-- SQL -->
+<img src="https://img.icons8.com/ios/50/000000/sql.png" alt="SQL" class="tech-icon">
+<!-- TypeScript -->
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" class="tech-icon">
+<!-- Scrum -->
+<img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" alt="Scrum" class="tech-icon">
 
 ## Soft Skills
 
