@@ -81,7 +81,7 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 ##
 
 <div style="width: 100%; display: flex; justify-content: center; margin: 2rem 0;">
-<img src="https://github-readme-stats.vercel.app/api?username=mark-kus&show_icons=true&theme=radical&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mark-kus github account stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mark-kus&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mark-kus github account stats">
 </div>
 
 ##
