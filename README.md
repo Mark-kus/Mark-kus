@@ -13,25 +13,18 @@ I am Marco Tignanelli, a passionate full-stack web developer from Argentina. Con
 
 ## Tech Skills
 
-<style>
-  .tech-icon {
-    width: 48px;
-    height: 48px;
-  }
-</style>
-
 <!-- HTML -->
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" style={{ width: 48px; height: 48px; }}>
 <!-- CSS -->
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" style={{ width: 48px; height: 48px; }}>
 <!-- JavaScript -->
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style={{ width: 48px; height: 48px; }}>
 <!-- React -->
-<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" style={{ width: 48px; height: 48px; }}>
 <!-- Node.js -->
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" class="tech-icon">
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" style={{ width: 48px; height: 48px; }}>
 <!-- Express -->
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" class="tech-icon">
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" style={{ width: 48px; height: 48px; }}>
 <!-- Python -->
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" class="tech-icon">
 <!-- FastAPI -->
