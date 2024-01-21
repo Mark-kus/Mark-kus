@@ -19,7 +19,7 @@
 
 ## Tech Skills
 
-![HTML](tech_icons/html.png) ![CSS](tech_icons/css.png) ![JavaScript](tech_icons/javascript.png) ![React](tech_icons/react.png) ![Node.js](tech_icons/nodejs.png) ![Express](tech_icons/express.png) ![Python](tech_icons/python.png) ![FastAPI](tech_icons/fastapi.png) ![Docker](tech_icons/docker.png) ![SQL](tech_icons/sql.png) ![TypeScript](tech_icons/typescript.png) ![Scrum](tech_icons/scrum.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) ![CSS](tech_icons/css.png) ![JavaScript](tech_icons/javascript.png) ![React](tech_icons/react.png) ![Node.js](tech_icons/nodejs.png) ![Express](tech_icons/express.png) ![Python](tech_icons/python.png) ![FastAPI](tech_icons/fastapi.png) ![Docker](tech_icons/docker.png) ![SQL](tech_icons/sql.png) ![TypeScript](tech_icons/typescript.png) ![Scrum](tech_icons/scrum.png)
 
 ## Soft Skills
 
