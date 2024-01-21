@@ -1,7 +1,4 @@
-<div style="position: relative; width: 100%; text-align: center; overflow: hidden; height: 200px; display: flex; justify-content: center; align-items: center;">
-  <img src="https://img.freepik.com/foto-gratis/bandera-argentina_1401-57.jpg" alt="Bandera Argentina" style="width: 100%; height: auto; position: absolute; top: -57%; left: 0; opacity: 0.4">
-  <h2 style="z-index: 1; position: relative; color: white;">Marco Tignanelli - Web Developer</h2>
-</div>
+# Marco Tignanelli - Web Developer 👨‍💻
 
 <!--![Profile Banner](insert_image_url_here)-->
 
