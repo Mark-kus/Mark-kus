@@ -1,4 +1,4 @@
-<h1 align="center">Eu, Soy Marco 👋</h1>
+<h1 align="center">Marco Tignanelli</h1>
 <p align="center">Full Stack Dev · Mate en mano · Código limpio y sin vueltas</p>
 
 <p align="center">
